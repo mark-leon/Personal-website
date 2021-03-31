@@ -1,0 +1,142 @@
+
+/* .top-container{
+    text-align: center;
+    color:#66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    
+} */
+body{
+  margin: 0%;
+  display: block;
+  padding: 0%;
+  border: 0%;
+}
+.intro{
+    color:#66BFBF;
+    font-size: 45px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+.up{
+    background-color: #E4F9F5;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 0%;
+}
+ /* .middle-container{
+    position: relative;
+    top: 100px;
+    
+}  */
+.myself{
+    height: 230px;
+    width: 230px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 100px;
+}
+.hello{
+    text-align: center;
+    color:#66BFBF;
+    font-size: 400%;
+    margin-top: 150px;
+
+}
+.about{
+    font-size: 175%;
+    width: 370px;
+    margin: auto;
+}
+.big{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 75%;
+    width: 70%;
+}
+h1{
+    color:#66BFBF;
+    text-align: center;
+}
+.code{
+    font-size: 175%;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+    padding: 30px;
+}
+.btn {
+    background: #1af0cc;
+    background-image: -webkit-linear-gradient(top, #1af0cc, #2980b9);
+    background-image: -moz-linear-gradient(top, #1af0cc, #2980b9);
+    background-image: -ms-linear-gradient(top, #1af0cc, #2980b9);
+    background-image: -o-linear-gradient(top, #1af0cc, #2980b9);
+    background-image: linear-gradient(to bottom, #1af0cc, #2980b9);
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 19px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 29px;
+    padding: 16px 40px 17px 40px;
+    text-decoration: none;
+    margin: 0px auto 100px auto;
+    display: block;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background: #66BFBF;
+    height: 300px;
+    width:100%;
+  }
+  .social{
+      color:#066565;
+      font-size: 200%;
+      text-align: center;
+      padding: 100px;
+  }
+  #white{
+      color: white;
+      font-size: 140%;
+      text-align: center;
+  }
+  .chili{
+    height: 150px;
+    width: 150px;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    top: 100px;
+    position: relative;
+    left: 830px;
+  }
+  .com{
+    height: 100px;
+    width: 150px;
+    display: inline;
+    /* margin-left: auto;
+    margin-right: auto; */
+    top: 100px;
+    position: relative;
+    left: 330px;
+  }
+  .clo{
+    position: absolute;
+    left: 400px;
+    height: 12%;
+  }
+  .small{
+    height: 120%;
+  }
